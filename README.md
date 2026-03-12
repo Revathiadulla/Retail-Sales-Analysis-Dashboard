@@ -39,7 +39,7 @@ The dashboard provides several business insights, including:
 ## Dashboard Preview
 
 Below is the Tableau dashboard created for the project:
-https://github.com/Revathiadulla/Retail-Sales-Analysis-Dashboard/commit/94b47f0274af776c594861ff8540b386b53574bf
+https://public.tableau.com/app/profile/adulla.revathi/viz/Retail_Sales_Analysis_17686487416920/SalesDashboard
 
 ## Objective
 
